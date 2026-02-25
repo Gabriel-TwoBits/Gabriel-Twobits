@@ -2,7 +2,7 @@
 
 I combine a solid academic background in Security (UFC/CENTEC) with hands-on experience in Backend and Game Development. From deploying secure Elixir infrastructures to publishing games on itch.io, I enjoy solving technical puzzles that require both creativity and analytical rigor.
 
-**Tech Stack**: Elixir, GDScript, C#, Infrastructure Security.<br>
+**Tech Stack**: GDScript, Elixir, Javascript, C#, Infrastructure Security.<br>
 **Soft Skills**: Focused, analytical, and composed under pressure.
 
 When I’m not coding, you’ll find me with a book in hand, playing games, or practicing music.
